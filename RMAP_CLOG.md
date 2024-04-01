@@ -25,6 +25,8 @@
 > Actions taken but not yet versioned
 
 - Updated repository documentation (RMAP_CLOG.md)
+- Configured ICO file tracking (.gitattributes)
+- Updated repository documentation (RMAP_CLOG.md)
 - Updated repository documentation (README.md)
 - Repository documentation added (RMAP_CLOG.md, README.md)
 - Repository attributes defined (.gitattributes)
