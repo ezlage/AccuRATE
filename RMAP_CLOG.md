@@ -24,6 +24,8 @@
 
 > Actions taken but not yet versioned
 
+- Updated repository documentation (RMAP_CLOG.md)
+- Updated repository documentation (README.md)
 - Repository documentation added (RMAP_CLOG.md, README.md)
 - Repository attributes defined (.gitattributes)
 - Funding information made available (FUNDING.yml)
