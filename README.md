@@ -1,6 +1,6 @@
 # AccuRATE
 
-AccuRATE is a precision financial calculator that supports cryptocurrencies. In addition to being multiplatform, it is developed and made available as a [Free and Open-Source Software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+It is a precision financial calculator that supports cryptocurrencies. In addition to being multiplatform, it is developed and made available as a [Free and Open-Source Software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
 Despite having already reached a stage of development that allowed us to use it, the previous releases were removed and work started again. It will soon be available!
 
