@@ -25,6 +25,8 @@
 > Actions taken but not yet versioned
 
 - Updated repository documentation (RMAP_CLOG.md)
+- Repository ignore list defined (.gitignore)
+- Updated repository documentation (RMAP_CLOG.md)
 - Configured ICO file tracking (.gitattributes)
 - Updated repository documentation (RMAP_CLOG.md)
 - Updated repository documentation (README.md)
